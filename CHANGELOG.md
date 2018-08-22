@@ -1,3 +1,26 @@
+## [1.1.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.1.0...v1.1.1) (2018-08-22)
+
+
+### 🐛 Bug Fixes
+
+* s/checkRoleAuthorization/checkAuthorization/g ([861a9a7](https://github.com/wmfs/tymly-test-helpers/commit/861a9a7))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update semantic-release requirement from 15.9.3 to 15.9.5 ([2bd4b2c](https://github.com/wmfs/tymly-test-helpers/commit/2bd4b2c))
+* **deps-dev:** update semantic-release requirement from 15.9.5 to 15.9.6 ([0904616](https://github.com/wmfs/tymly-test-helpers/commit/0904616))
+* **deps-dev:** update semantic-release requirement from 15.9.6 to 15.9.7 ([fe0a561](https://github.com/wmfs/tymly-test-helpers/commit/fe0a561))
+* **deps-dev:** update semantic-release requirement from 15.9.7 to 15.9.8 ([1cfbd1f](https://github.com/wmfs/tymly-test-helpers/commit/1cfbd1f))
+* **deps-dev:** update semantic-release requirement from 15.9.8 to 15.9.9 ([d0f3b8c](https://github.com/wmfs/tymly-test-helpers/commit/d0f3b8c))
+* **deps-dev:** update semantic-release requirement to 15.9.2 ([1439941](https://github.com/wmfs/tymly-test-helpers/commit/1439941))
+* **deps-dev:** update semantic-release requirement to 15.9.3 ([171b811](https://github.com/wmfs/tymly-test-helpers/commit/171b811))
+
+
+### ♻️ Chores
+
+* codecov 3.0.3 -> 3.0.4 ([4eb4f80](https://github.com/wmfs/tymly-test-helpers/commit/4eb4f80))
+
 # [1.1.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.0.1...v1.1.0) (2018-07-30)
 
 
