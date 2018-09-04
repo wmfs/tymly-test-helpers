@@ -1,3 +1,21 @@
+## [1.1.2](https://github.com/wmfs/tymly-test-helpers/compare/v1.1.1...v1.1.2) (2018-09-04)
+
+
+### 🐛 Bug Fixes
+
+* s/getUserRoles/listUserRoles/g ([26f31a5](https://github.com/wmfs/tymly-test-helpers/commit/26f31a5))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement from 7.0.1 to 7.0.2 ([8b8f048](https://github.com/wmfs/tymly-test-helpers/commit/8b8f048))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement from 7.0.2 to 7.0.3 ([9762e0d](https://github.com/wmfs/tymly-test-helpers/commit/9762e0d))
+* **deps-dev:** update nyc requirement from 12.0.2 to 13.0.1 ([19e372c](https://github.com/wmfs/tymly-test-helpers/commit/19e372c))
+* **deps-dev:** update semantic-release requirement from 15.9.11 to 15.9.12 ([8c95afe](https://github.com/wmfs/tymly-test-helpers/commit/8c95afe))
+* **deps-dev:** update semantic-release requirement from 15.9.9 to 15.9.11 ([6cb6471](https://github.com/wmfs/tymly-test-helpers/commit/6cb6471))
+* **deps-dev:** update standard requirement from 11.0.1 to 12.0.0 ([ee98469](https://github.com/wmfs/tymly-test-helpers/commit/ee98469))
+* **deps-dev:** update standard requirement from 12.0.0 to 12.0.1 ([e83fdaa](https://github.com/wmfs/tymly-test-helpers/commit/e83fdaa))
+
 ## [1.1.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.1.0...v1.1.1) (2018-08-22)
 
 
