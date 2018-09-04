@@ -8,7 +8,7 @@ class DummyRbacService {
 
   ensureUserRoles (userId, roleIds) { } // ensureUserRoles
 
-  getUserRoles (userId) {
+  listUserRoles (userId) {
     return ['$everyone']
   } // getUserRoles
 
