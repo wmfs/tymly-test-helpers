@@ -12,6 +12,10 @@ class DummyRbacService {
     return ['$everyone']
   } // getUserRoles
 
+  checkRoleAuthorization (userId, ctx, roles, resourceType, resourceName, action) {
+    return this.checkAuthorization(userId, ctx, resourceType, resourceName, action)
+  }
+
   checkAuthorization (userId, ctx, resourceType, resourceName, action) {
     const text = `User '${userId}' asking for '${action}' on ${resourceType} '${resourceName}'... ` +
       `\n\tAccess permitted - NO ACCESS CONTROL APPLIED`
