@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/wmfs/tymly-test-helpers/compare/v1.1.2...v1.1.3) (2018-09-04)
+
+
+### 🐛 Bug Fixes
+
+* added CheckRoleAuthorization ([50acc8e](https://github.com/wmfs/tymly-test-helpers/commit/50acc8e))
+
 ## [1.1.2](https://github.com/wmfs/tymly-test-helpers/compare/v1.1.1...v1.1.2) (2018-09-04)
 
 
