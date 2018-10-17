@@ -6,21 +6,15 @@ class DummyRbacService {
     callback(null)
   } // boot
 
-  ensureUserRoles (userId, roleIds) { } // ensureUserRoles
-
   listUserRoles (userId) {
-    return ['$everyone']
+    return Promise.resolve(['$everyone'])
   } // getUserRoles
-
-  checkRoleAuthorization (userId, ctx, roles, resourceType, resourceName, action) {
-    return this.checkAuthorization(userId, ctx, resourceType, resourceName, action)
-  }
 
   checkAuthorization (userId, ctx, resourceType, resourceName, action) {
     const text = `User '${userId}' asking for '${action}' on ${resourceType} '${resourceName}'... ` +
       `\n\tAccess permitted - NO ACCESS CONTROL APPLIED`
     debug(text)
-    return true
+    return Promise.resolve(true)
   } // checkRoleAuthorization
 
   resetCache () {
