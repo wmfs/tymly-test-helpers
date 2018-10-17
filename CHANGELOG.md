@@ -1,3 +1,23 @@
+## [1.1.4](https://github.com/wmfs/tymly-test-helpers/compare/v1.1.3...v1.1.4) (2018-10-17)
+
+
+### 🐛 Bug Fixes
+
+* Return Promises from chckeAithorisations ([268b3f8](https://github.com/wmfs/tymly-test-helpers/commit/268b3f8))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([6516e46](https://github.com/wmfs/tymly-test-helpers/commit/6516e46))
+* **deps-dev:** update chai requirement from 4.1.2 to 4.2.0 ([6232ca3](https://github.com/wmfs/tymly-test-helpers/commit/6232ca3))
+* **deps-dev:** update codecov requirement from 3.0.4 to 3.1.0 ([782a3d3](https://github.com/wmfs/tymly-test-helpers/commit/782a3d3))
+* **deps-dev:** update nyc requirement from 13.0.1 to 13.1.0 ([cf8900a](https://github.com/wmfs/tymly-test-helpers/commit/cf8900a))
+* **deps-dev:** update semantic-release requirement ([88792b4](https://github.com/wmfs/tymly-test-helpers/commit/88792b4))
+* **deps-dev:** update semantic-release requirement ([9491ebb](https://github.com/wmfs/tymly-test-helpers/commit/9491ebb))
+* **deps-dev:** update semantic-release requirement ([87451d4](https://github.com/wmfs/tymly-test-helpers/commit/87451d4))
+* **deps-dev:** update semantic-release requirement ([7bdb19e](https://github.com/wmfs/tymly-test-helpers/commit/7bdb19e))
+* **deps-dev:** update semantic-release requirement ([8cb4b16](https://github.com/wmfs/tymly-test-helpers/commit/8cb4b16))
+
 ## [1.1.3](https://github.com/wmfs/tymly-test-helpers/compare/v1.1.2...v1.1.3) (2018-09-04)
 
 
