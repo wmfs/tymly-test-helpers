@@ -1,3 +1,26 @@
+# [1.2.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.1.4...v1.2.0) (2018-12-18)
+
+
+### ✨ Features
+
+* Mock cloud storage state-resources ([8ca4281](https://github.com/wmfs/tymly-test-helpers/commit/8ca4281))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([6f261ff](https://github.com/wmfs/tymly-test-helpers/commit/6f261ff))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([20d5cc2](https://github.com/wmfs/tymly-test-helpers/commit/20d5cc2))
+* **deps-dev:** update semantic-release requirement ([d6b8f80](https://github.com/wmfs/tymly-test-helpers/commit/d6b8f80))
+* **deps-dev:** update semantic-release requirement ([cc59950](https://github.com/wmfs/tymly-test-helpers/commit/cc59950))
+* **deps-dev:** update semantic-release requirement ([3224247](https://github.com/wmfs/tymly-test-helpers/commit/3224247))
+* **deps-dev:** update semantic-release requirement ([7f95e90](https://github.com/wmfs/tymly-test-helpers/commit/7f95e90))
+* **deps-dev:** update semantic-release requirement ([ec4f3e2](https://github.com/wmfs/tymly-test-helpers/commit/ec4f3e2))
+* **deps-dev:** update semantic-release requirement ([2b60c5b](https://github.com/wmfs/tymly-test-helpers/commit/2b60c5b))
+* **deps-dev:** update semantic-release requirement ([85ecd9f](https://github.com/wmfs/tymly-test-helpers/commit/85ecd9f))
+* **deps-dev:** update semantic-release requirement ([8685516](https://github.com/wmfs/tymly-test-helpers/commit/8685516))
+* **deps-dev:** update semantic-release requirement ([a57c133](https://github.com/wmfs/tymly-test-helpers/commit/a57c133))
+* **deps-dev:** update semantic-release requirement ([94c8205](https://github.com/wmfs/tymly-test-helpers/commit/94c8205))
+
 ## [1.1.4](https://github.com/wmfs/tymly-test-helpers/compare/v1.1.3...v1.1.4) (2018-10-17)
 
 
