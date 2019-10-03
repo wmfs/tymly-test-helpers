@@ -1,0 +1,29 @@
+{
+  "Comment": "View a property",
+  "name": "View Property",
+  "version": "1.0",
+  "categories": [
+    "gazetteer"
+  ],
+  "StartAt": "AwaitingHumanInput",
+  "States": {
+    "AwaitingHumanInput": {
+      "Type": "Task",
+      "Resource": "module:awaitingHumanInput",
+      "ResourceConfig": {
+        "uiType": "board",
+        "uiName": "wmfs_propertyViewer",
+        "dataPath": "$"
+      },
+      "End": true
+    }
+  },
+  "restrictions": [
+    {
+      "roleId": "$authenticated",
+      "allows": [
+        "*"
+      ]
+    }
+  ]
+}
