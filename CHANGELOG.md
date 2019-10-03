@@ -1,3 +1,29 @@
+# [1.3.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.2.0...v1.3.0) (2019-10-03)
+
+
+### ✨ Features
+
+* add a mock-addressbox-blueprint to save having to require all the blueprints ([243d817](https://github.com/wmfs/tymly-test-helpers/commit/243d817))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([9d6152e](https://github.com/wmfs/tymly-test-helpers/commit/9d6152e))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([64e6ca3](https://github.com/wmfs/tymly-test-helpers/commit/64e6ca3))
+* **deps-dev:** update codecov requirement from 3.1.0 to 3.5.0 ([dfcf39f](https://github.com/wmfs/tymly-test-helpers/commit/dfcf39f))
+* **deps-dev:** update dev dependancies ([8eaa608](https://github.com/wmfs/tymly-test-helpers/commit/8eaa608))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([f3a7418](https://github.com/wmfs/tymly-test-helpers/commit/f3a7418))
+* **deps-dev:** update nyc requirement from 13.1.0 to 14.1.1 ([580f0e5](https://github.com/wmfs/tymly-test-helpers/commit/580f0e5))
+* **deps-dev:** update semantic-release requirement ([250d674](https://github.com/wmfs/tymly-test-helpers/commit/250d674))
+* **deps-dev:** update semantic-release requirement ([09ff2a9](https://github.com/wmfs/tymly-test-helpers/commit/09ff2a9))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([a02c07f](https://github.com/wmfs/tymly-test-helpers/commit/a02c07f))
+* **circle:** Refactor config ([e4b3301](https://github.com/wmfs/tymly-test-helpers/commit/e4b3301))
+* **travis:** Remove Travis config ([88106fb](https://github.com/wmfs/tymly-test-helpers/commit/88106fb))
+
 # [1.2.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.1.4...v1.2.0) (2018-12-18)
 
 
