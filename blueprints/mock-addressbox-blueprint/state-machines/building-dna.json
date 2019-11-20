@@ -3,7 +3,7 @@
   "name": "Building DNA",
   "version": "1.0",
   "categories": [
-    "fireSafety"
+    "protection"
   ],
   "StartAt": "AwaitingHumanInput",
   "States": {

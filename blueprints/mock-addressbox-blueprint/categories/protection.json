@@ -1,0 +1,8 @@
+{
+  "label": "Protection",
+  "description": "Protection",
+  "styling": {
+    "icon": "protection",
+    "backgroundColor": "#008800"
+  }
+}

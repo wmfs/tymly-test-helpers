@@ -1,0 +1,18 @@
+{
+  "title": "Gazetteer",
+  "description": "The Gazetteer Table",
+  "primaryKey": [
+    "uprn",
+    "counter"
+  ],
+  "type": "object",
+  "properties": {
+    "uprn": {
+      "type": "integer",
+      "maxLength": 12
+    },
+    "counter": {
+      "type": "integer"
+    }
+  }
+}
