@@ -1,3 +1,42 @@
+## [1.4.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.4.0...v1.4.1) (2020-04-20)
+
+
+### 🐛 Bug Fixes
+
+* **state-resource:** Remove callback parameter from init method ([a70bf8b](https://github.com/wmfs/tymly-test-helpers/commit/a70bf8b3cb4268bc82223f1c2403161e310a0c16))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([f66a6c6](https://github.com/wmfs/tymly-test-helpers/commit/f66a6c6bcea7e378071586fb23122ba5013fdd0c))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([85228c4](https://github.com/wmfs/tymly-test-helpers/commit/85228c47e412b2b0aa922f55d5ddd27e2e73cd77))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.18 to 9.0.0 ([58ddcf2](https://github.com/wmfs/tymly-test-helpers/commit/58ddcf22053cd50ce979dd55f3ba210c66527f56))
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([2689919](https://github.com/wmfs/tymly-test-helpers/commit/26899192690506865e0bcf2d1f214f067ba907e3))
+* **deps-dev:** bump codecov from 3.6.2 to 3.6.3 ([2c0f30d](https://github.com/wmfs/tymly-test-helpers/commit/2c0f30d66b97d92edbd9885995d0f3d503dbad1b))
+* **deps-dev:** bump codecov from 3.6.3 to 3.6.4 ([2ae88cb](https://github.com/wmfs/tymly-test-helpers/commit/2ae88cb3e40f395c1907b07a0a220de3c83f0163))
+* **deps-dev:** bump codecov from 3.6.4 to 3.6.5 ([fd23fee](https://github.com/wmfs/tymly-test-helpers/commit/fd23fee7754def9fd3187f747ea9caf2a476788f))
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([dce7163](https://github.com/wmfs/tymly-test-helpers/commit/dce71630b611d42a4c2ba12a6b0e5a64b8982104))
+* **deps-dev:** bump conventional-changelog-metahub from 4.0.0 to 4.0.1 ([1e88ba9](https://github.com/wmfs/tymly-test-helpers/commit/1e88ba903facaf3b4fb60a84aad92ee28b6194f9))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.0.3 ([11678b2](https://github.com/wmfs/tymly-test-helpers/commit/11678b2c381b00830191751c58ce026024218f17))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.3 to 3.1.0 ([7e6d989](https://github.com/wmfs/tymly-test-helpers/commit/7e6d989862a1e5b67b4b2772a6adbf1ac262bf01))
+* **deps-dev:** bump mocha from 6.2.2 to 7.0.0 ([cfc579b](https://github.com/wmfs/tymly-test-helpers/commit/cfc579b3acc6ccc61df4b5cbca4861dfb0b6338b))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([ac4e5e7](https://github.com/wmfs/tymly-test-helpers/commit/ac4e5e7b08ac503c736e732a2643dfedff927a4d))
+* **deps-dev:** bump mocha from 7.0.1 to 7.1.0 ([ece1e22](https://github.com/wmfs/tymly-test-helpers/commit/ece1e222b0b4e54c3294986d4214b39de63e3ac2))
+* **deps-dev:** bump mocha from 7.1.0 to 7.1.1 ([7a574ac](https://github.com/wmfs/tymly-test-helpers/commit/7a574ac1e2fffc20926514dd6a9136a6b71af7db))
+* **deps-dev:** bump nyc from 15.0.0 to 15.0.1 ([8e2cf39](https://github.com/wmfs/tymly-test-helpers/commit/8e2cf3943429dc0e4c1cda6ecd9573b93b037b90))
+* **deps-dev:** bump packages ([e0e4ba6](https://github.com/wmfs/tymly-test-helpers/commit/e0e4ba6b05afad38aee407f79d35b1d57c11c674))
+* **deps-dev:** bump semantic-release from 15.14.0 to 17.0.4 ([ea961ed](https://github.com/wmfs/tymly-test-helpers/commit/ea961ed6a3f2882361191c8d9e7b890c23f185b6))
+* **deps-dev:** bump semantic-release from 17.0.4 to 17.0.5 ([5e385b4](https://github.com/wmfs/tymly-test-helpers/commit/5e385b450ab7044398c9094295c8268c8cd5864a))
+* **deps-dev:** bump semantic-release from 17.0.5 to 17.0.6 ([04ac6d6](https://github.com/wmfs/tymly-test-helpers/commit/04ac6d6b8e63a2a344031d700124540f94cf0198))
+* **deps-dev:** bump standard from 14.3.1 to 14.3.2 ([f7d32b7](https://github.com/wmfs/tymly-test-helpers/commit/f7d32b77a8b95e2eb37a01de742a2535dcf8e52f))
+* **deps-dev:** bump standard from 14.3.2 to 14.3.3 ([cdd1023](https://github.com/wmfs/tymly-test-helpers/commit/cdd1023fc01c047474c66e0f9e601656a995f820))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([7e5591e](https://github.com/wmfs/tymly-test-helpers/commit/7e5591e408476e1168f6c7a56ef49923971f8be2))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([dc11732](https://github.com/wmfs/tymly-test-helpers/commit/dc11732ffdd7fd9e36ebfa4fcbd162c51c5b71af))
+
 # [1.4.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.3.0...v1.4.0) (2019-11-20)
 
 
