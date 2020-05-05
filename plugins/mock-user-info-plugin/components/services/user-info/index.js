@@ -1,12 +1,10 @@
 
 class MockUserInfoService {
-  boot (options, callback) {
+  boot (options) {
     options.messages.info('Mock User-info Service')
 
     this.id2Email = new Map()
     this.email2Id = new Map()
-
-    callback(null)
   } // boot
 
   addUser (userId, email) {

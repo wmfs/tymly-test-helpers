@@ -1,9 +1,8 @@
 const debug = require('debug')('rbac')
 
 class DummyRbacService {
-  boot (options, callback) {
+  boot (options) {
     options.messages.info('Dummy RBAC Service - always say yes')
-    callback(null)
   } // boot
 
   listUserRoles (userId) {
