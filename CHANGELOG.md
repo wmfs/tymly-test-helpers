@@ -1,3 +1,17 @@
+## [1.4.2](https://github.com/wmfs/tymly-test-helpers/compare/v1.4.1...v1.4.2) (2020-05-05)
+
+
+### 🐛 Bug Fixes
+
+* **services:** Remove redundant boot callback parameter ([6e4c1a3](https://github.com/wmfs/tymly-test-helpers/commit/6e4c1a36a8e473d9dcfa49137d625c75d69b82f1))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump cz-conventional-changelog from 3.1.0 to 3.2.0 ([44cdc06](https://github.com/wmfs/tymly-test-helpers/commit/44cdc06e513acba2f414f81ec6700e6c5862132b))
+* **deps-dev:** bump mocha from 7.1.1 to 7.1.2 ([7cbb838](https://github.com/wmfs/tymly-test-helpers/commit/7cbb83830486eb79203e6246b9b1aeb512ee4344))
+* **deps-dev:** bump semantic-release from 17.0.6 to 17.0.7 ([f721e71](https://github.com/wmfs/tymly-test-helpers/commit/f721e713777f12b911ebbbb5c4f5b1ee5487ef70))
+
 ## [1.4.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.4.0...v1.4.1) (2020-04-20)
 
 
