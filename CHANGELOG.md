@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.5.0...v1.6.0) (2020-09-02)
+
+
+### ✨ Features
+
+* add more mock state resources (os-places, rest-client, search) ([0152406](https://github.com/wmfs/tymly-test-helpers/commit/0152406d20a9228d182c4002a07c025b60e54b0b))
+
 # [1.5.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.4.2...v1.5.0) (2020-09-02)
 
 
