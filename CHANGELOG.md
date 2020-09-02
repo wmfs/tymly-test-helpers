@@ -1,3 +1,35 @@
+# [1.5.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.4.2...v1.5.0) (2020-09-02)
+
+
+### ✨ Features
+
+* create mock solr plugin with UpdateDocsBySearchDoc state resource ([366bffb](https://github.com/wmfs/tymly-test-helpers/commit/366bffbed3fa76c61097fca31ebfda9acdf7eebd))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.6.5 to 3.7.0 ([ba1c39a](https://github.com/wmfs/tymly-test-helpers/commit/ba1c39ac572dedcfd897909bb2df5f2317e063a7))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([d04391f](https://github.com/wmfs/tymly-test-helpers/commit/d04391f341de40933a0be1e66de52f8dbf11af67))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([a613340](https://github.com/wmfs/tymly-test-helpers/commit/a613340fc7471fc3d71f7981881ca719f3b21411))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([057bcf3](https://github.com/wmfs/tymly-test-helpers/commit/057bcf3862b5f00a2917867b1ab335d274e2f6d4))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([6a8b2a6](https://github.com/wmfs/tymly-test-helpers/commit/6a8b2a6f1025df9b940b9394e357f22c476b317f))
+* **deps-dev:** bump mocha from 7.1.2 to 7.2.0 ([a7ba3e5](https://github.com/wmfs/tymly-test-helpers/commit/a7ba3e559ee62e741e42ff22fc8d25ea08123e7b))
+* **deps-dev:** bump mocha from 7.2.0 to 8.0.1 ([d2cc9b8](https://github.com/wmfs/tymly-test-helpers/commit/d2cc9b86d729f914512c949e9fb75c2c85c7ffbd))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([6920614](https://github.com/wmfs/tymly-test-helpers/commit/692061432d9fb74e2322ce69ee5a07479bf2b863))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([89f3178](https://github.com/wmfs/tymly-test-helpers/commit/89f3178a2b340780f2e6ba24e43a9349b78a8954))
+* **deps-dev:** bump mocha from 8.1.1 to 8.1.2 ([d6c843e](https://github.com/wmfs/tymly-test-helpers/commit/d6c843e81a5c68506f3ebd2646e6770c0a92efbd))
+* **deps-dev:** bump mocha from 8.1.2 to 8.1.3 ([22b21af](https://github.com/wmfs/tymly-test-helpers/commit/22b21afc5c58dbcda9883b8d46e738bba52e0ab6))
+* **deps-dev:** bump nyc from 15.0.1 to 15.1.0 ([efef2c2](https://github.com/wmfs/tymly-test-helpers/commit/efef2c2e05483a9f20b79dc5731f6c6cfddf9875))
+* **deps-dev:** bump semantic-release from 17.0.7 to 17.0.8 ([c9860ad](https://github.com/wmfs/tymly-test-helpers/commit/c9860ad178795360a0b92fc4a0e2153eea2a7620))
+* **deps-dev:** bump semantic-release from 17.0.8 to 17.1.0 ([6e1eace](https://github.com/wmfs/tymly-test-helpers/commit/6e1eace30ecc3ad8e3f9d92f0a98b700353183c6))
+* **deps-dev:** bump semantic-release from 17.1.0 to 17.1.1 ([f2d3cf3](https://github.com/wmfs/tymly-test-helpers/commit/f2d3cf3e739d95f99f579d58e9d428d21c5077a4))
+* **deps-dev:** bump standard from 14.3.3 to 14.3.4 ([31e938e](https://github.com/wmfs/tymly-test-helpers/commit/31e938eba30a4fe9dd8715ace3ec14575baac0ab))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** use updated circle node image [skip ci] ([56d651c](https://github.com/wmfs/tymly-test-helpers/commit/56d651c0a9727c48ef33a9dbcaaa89aa086b3dab))
+
 ## [1.4.2](https://github.com/wmfs/tymly-test-helpers/compare/v1.4.1...v1.4.2) (2020-05-05)
 
 
