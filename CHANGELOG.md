@@ -1,3 +1,15 @@
+# [1.7.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.6.0...v1.7.0) (2020-09-21)
+
+
+### ✨ Features
+
+* add system blueprint ([e6a1287](https://github.com/wmfs/tymly-test-helpers/commit/e6a1287d4afad41034c3f736238565941373e10c))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([d33a290](https://github.com/wmfs/tymly-test-helpers/commit/d33a2907b1ea387bf6904be80dc2ea6bca070cae))
+
 # [1.6.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.5.0...v1.6.0) (2020-09-02)
 
 
