@@ -20,8 +20,8 @@ workflows:
   version: 2
   release:
     jobs:
-    - build:
-        context: tymly_global
-        filters:
-          branches:
-            only: master
+      - build:
+          context: tymly_global
+          filters:
+            branches:
+              only: master
