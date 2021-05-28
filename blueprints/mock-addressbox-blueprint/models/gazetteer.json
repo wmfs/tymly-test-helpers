@@ -13,6 +13,12 @@
     },
     "counter": {
       "type": "integer"
+    },
+    "postcode": {
+      "type": "string"
+    },
+    "addressLabel": {
+      "type": "string"
     }
   }
 }
