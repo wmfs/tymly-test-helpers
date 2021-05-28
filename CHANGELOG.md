@@ -1,3 +1,59 @@
+# [1.8.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.7.0...v1.8.0) (2021-05-28)
+
+
+### ✨ Features
+
+* extend gaz test model ([9e1d2a0](https://github.com/wmfs/tymly-test-helpers/commit/9e1d2a098869735cf91e91e4588c1a3ff4f8f81d))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump chai from 4.2.0 to 4.3.0 ([6bd27bc](https://github.com/wmfs/tymly-test-helpers/commit/6bd27bc39df585ba9c1a4f31ab180eafd84bbaa0))
+* **deps-dev:** bump chai from 4.3.0 to 4.3.1 ([4013210](https://github.com/wmfs/tymly-test-helpers/commit/4013210bb9d14d75000dee74c15e7e1408e67b94))
+* **deps-dev:** bump chai from 4.3.1 to 4.3.2 ([4c72d52](https://github.com/wmfs/tymly-test-helpers/commit/4c72d5256cb8f621741b5d9de7a8afd682495a59))
+* **deps-dev:** bump chai from 4.3.2 to 4.3.3 ([af33c73](https://github.com/wmfs/tymly-test-helpers/commit/af33c739df566168ed4bef612eb2a0a76965dd89))
+* **deps-dev:** bump chai from 4.3.3 to 4.3.4 ([bcc318a](https://github.com/wmfs/tymly-test-helpers/commit/bcc318aff14a2220ae7e7ce2a2cc57c04cd3eb91))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([574b969](https://github.com/wmfs/tymly-test-helpers/commit/574b969483e49483944ff5aca113b910e1953a4c))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([b873014](https://github.com/wmfs/tymly-test-helpers/commit/b87301416459f42afcea3fb0ba4def301d3bf828))
+* **deps-dev:** bump codecov from 3.8.1 to 3.8.2 ([a5c6443](https://github.com/wmfs/tymly-test-helpers/commit/a5c644312e57e25004a6b63844db42f270abbf53))
+* **deps-dev:** bump mocha from 8.1.3 to 8.2.0 ([7305c30](https://github.com/wmfs/tymly-test-helpers/commit/7305c306b7e55761073bbd8923b20ec265cd19d5))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([a3ff827](https://github.com/wmfs/tymly-test-helpers/commit/a3ff8271338a0f1b91e24ba8f8e2a23c82336d2c))
+* **deps-dev:** bump mocha from 8.2.1 to 8.3.0 ([31485e2](https://github.com/wmfs/tymly-test-helpers/commit/31485e2b013df16cdec2ebb5a94ae9fecfb3536e))
+* **deps-dev:** bump mocha from 8.3.0 to 8.3.1 ([1d31afd](https://github.com/wmfs/tymly-test-helpers/commit/1d31afdbc2bf205b4587bd143071ca6a820bdf3d))
+* **deps-dev:** bump mocha from 8.3.1 to 8.3.2 ([37ecd2a](https://github.com/wmfs/tymly-test-helpers/commit/37ecd2a6e9a46b1d2736bb74aa1d6ba751dc9455))
+* **deps-dev:** bump mocha from 8.3.2 to 8.4.0 ([b481066](https://github.com/wmfs/tymly-test-helpers/commit/b481066dded0174b3da690ad781897a00e0ddc55))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([9aaf89d](https://github.com/wmfs/tymly-test-helpers/commit/9aaf89d0a8d85970efee3032f4bf21989d6f6082))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([44c4adf](https://github.com/wmfs/tymly-test-helpers/commit/44c4adfa967026679c12a219ed50152309642942))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([14bdc09](https://github.com/wmfs/tymly-test-helpers/commit/14bdc0911e4f7dcfde08423bed6438e740d74cb9))
+* **deps-dev:** bump semantic-release from 17.2.2 to 17.2.3 ([3b1fc32](https://github.com/wmfs/tymly-test-helpers/commit/3b1fc3262b6097c09a1af0e57ed90db8cae8d664))
+* **deps-dev:** bump semantic-release from 17.2.3 to 17.2.4 ([bd65f54](https://github.com/wmfs/tymly-test-helpers/commit/bd65f54521068df806f6131621f5f64294b4fe5d))
+* **deps-dev:** bump semantic-release from 17.2.4 to 17.3.0 ([05c7293](https://github.com/wmfs/tymly-test-helpers/commit/05c729386736d0c9e7cba177a95b68fdceaf2bf8))
+* **deps-dev:** bump semantic-release from 17.3.0 to 17.3.1 ([27f2b29](https://github.com/wmfs/tymly-test-helpers/commit/27f2b29b73367ef175d8de465635f26965c89aa8))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([c318fc2](https://github.com/wmfs/tymly-test-helpers/commit/c318fc23c7958e2702c8a45c39e8c90d2458d622))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([1a06b8a](https://github.com/wmfs/tymly-test-helpers/commit/1a06b8ab0152f044a45e8d7ecd2f2b461011392d))
+* **deps-dev:** bump semantic-release from 17.3.3 to 17.3.4 ([64c77ad](https://github.com/wmfs/tymly-test-helpers/commit/64c77ad935c73475f195efefc33e0891050afd98))
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([f715de4](https://github.com/wmfs/tymly-test-helpers/commit/f715de49f9041f1b7fffdb19d369a79d9ecb3e31))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([b34e21e](https://github.com/wmfs/tymly-test-helpers/commit/b34e21ee1723ca70ed9ebeec357b2dcb25480e3c))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([cdea46a](https://github.com/wmfs/tymly-test-helpers/commit/cdea46aa39b405d917003326e181d2b511d9e500))
+* **deps-dev:** bump semantic-release from 17.3.7 to 17.3.8 ([0e164aa](https://github.com/wmfs/tymly-test-helpers/commit/0e164aaca90a25516c71ac7e017800a23294b329))
+* **deps-dev:** bump semantic-release from 17.3.8 to 17.3.9 ([2f35356](https://github.com/wmfs/tymly-test-helpers/commit/2f35356dd6eeab854675fd6a42427d9acb8a1363))
+* **deps-dev:** bump semantic-release from 17.3.9 to 17.4.0 ([701854a](https://github.com/wmfs/tymly-test-helpers/commit/701854a97e9f55a4b171830fa6b5b0e097eb98ea))
+* **deps-dev:** bump semantic-release from 17.4.0 to 17.4.1 ([de7fa38](https://github.com/wmfs/tymly-test-helpers/commit/de7fa38271f3061597d0f53583fe043d50c233be))
+* **deps-dev:** bump semantic-release from 17.4.1 to 17.4.2 ([88d8258](https://github.com/wmfs/tymly-test-helpers/commit/88d8258b2f6db5e2b0020201b6fa23b7db3f2e6f))
+* **deps-dev:** bump semantic-release from 17.4.2 to 17.4.3 ([be7fc34](https://github.com/wmfs/tymly-test-helpers/commit/be7fc34363129d0ab5d4f53677670018596b60bb))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([42c2ba6](https://github.com/wmfs/tymly-test-helpers/commit/42c2ba61ff67876ea23197cbc902901a455f0154))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([cf578e7](https://github.com/wmfs/tymly-test-helpers/commit/cf578e76ac6b27315b4e3a8cbfda24c3c3262502))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.0 ([a8387b4](https://github.com/wmfs/tymly-test-helpers/commit/a8387b4dd555d3d4a05949749c4bda9244df7afa))
+* **deps-dev:** bump standard from 16.0.0 to 16.0.1 ([8f5ce18](https://github.com/wmfs/tymly-test-helpers/commit/8f5ce188577c235c8969b17bef0f30f4caa839ef))
+* **deps-dev:** bump standard from 16.0.1 to 16.0.2 ([d96582e](https://github.com/wmfs/tymly-test-helpers/commit/d96582e96c287dfd2d6eac702cb398806d861786))
+* **deps-dev:** bump standard from 16.0.2 to 16.0.3 ([c9ca6fb](https://github.com/wmfs/tymly-test-helpers/commit/c9ca6fbd49f418f444b3e67211be2a3ea4442f11))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([f47a266](https://github.com/wmfs/tymly-test-helpers/commit/f47a26630ee66379d33f1c1d678570fac154b55e))
+* **circle:** update build environment variable context name [ch2771] ([df2085f](https://github.com/wmfs/tymly-test-helpers/commit/df2085f3cb9ce6c359c2b76423559a9d1c847c55))
+
 # [1.7.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.6.0...v1.7.0) (2020-09-21)
 
 
