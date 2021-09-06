@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.9.1...v1.10.0) (2021-09-06)
+
+
+### ✨ Features
+
+* add extra blueprint functions ([1716b1b](https://github.com/wmfs/tymly-test-helpers/commit/1716b1b64761c07a87e0f8afa9e6abbb66f180cc))
+
 ## [1.9.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.9.0...v1.9.1) (2021-09-06)
 
 
