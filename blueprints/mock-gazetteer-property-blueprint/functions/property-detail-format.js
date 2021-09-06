@@ -1,3 +1,1 @@
-module.exports = function propertyDetailFormat () {
-  return () => []
-}
+module.exports = function () { return () => [] }
