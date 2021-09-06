@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.9.0...v1.9.1) (2021-09-06)
+
+
+### 🐛 Bug Fixes
+
+* missing blueprint.json and index from mock-gazetteer-property-blueprint ([41c3e7c](https://github.com/wmfs/tymly-test-helpers/commit/41c3e7c9349c79c898e0a011cacf4b5a3e06d751))
+
 # [1.9.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.8.0...v1.9.0) (2021-09-06)
 
 
