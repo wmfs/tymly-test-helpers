@@ -1,0 +1,10 @@
+{
+  "namespace": "wmfs",
+  "name": "gazetteer-property",
+  "version": "1.0",
+  "label": "Mock gazetteer property blueprint",
+  "author": "WMFS",
+  "organisation": "West Midlands Fire Service",
+  "description": "Mock gazetteer property blueprint",
+  "tags": ["gazetteer"]
+}
