@@ -1,3 +1,31 @@
+# [1.9.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.8.0...v1.9.0) (2021-09-06)
+
+
+### ✨ Features
+
+* add mock gazetteer property blueprint with function for property-detail-format.js ([11bf0fc](https://github.com/wmfs/tymly-test-helpers/commit/11bf0fc14ee039a5d8ab5a4227e9a48b915bf0cc))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.8.2 to 3.8.3 ([685b068](https://github.com/wmfs/tymly-test-helpers/commit/685b068cca044b637a276ad19d14ba7861cac10f))
+* **deps-dev:** bump mocha from 8.4.0 to 9.0.0 ([2ff9fb7](https://github.com/wmfs/tymly-test-helpers/commit/2ff9fb7c67a53306f864e0b9fe7ec634a86124a0))
+* **deps-dev:** bump mocha from 9.0.0 to 9.0.1 ([d99078e](https://github.com/wmfs/tymly-test-helpers/commit/d99078e473581fe3a5f9db0566b965582635d7df))
+* **deps-dev:** bump mocha from 9.0.1 to 9.0.2 ([6295986](https://github.com/wmfs/tymly-test-helpers/commit/62959867ab74c5a93fef9302d8265bb4f4b8ef57))
+* **deps-dev:** bump mocha from 9.0.2 to 9.0.3 ([1b083c1](https://github.com/wmfs/tymly-test-helpers/commit/1b083c1dfac82fd0ce4e561d43b944f4ba7d514d))
+* **deps-dev:** bump semantic-release from 17.4.3 to 17.4.4 ([bdf2b87](https://github.com/wmfs/tymly-test-helpers/commit/bdf2b878f12eb59067b2e2b8f0a45d8d96a39cf0))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v9.0.1 ([f685d9e](https://github.com/wmfs/tymly-test-helpers/commit/f685d9e321967d8086a9e0bad6e5d01f9ecce837))
+* **deps-dev:** update dependency mocha to v9.1.0 ([9bad5dc](https://github.com/wmfs/tymly-test-helpers/commit/9bad5dcca94a843bebe6d3d2a89466a2b16715c5))
+* **deps-dev:** update dependency mocha to v9.1.1 ([ababa1b](https://github.com/wmfs/tymly-test-helpers/commit/ababa1b7a94c9c3974899bc8954ed2fcaec63c22))
+* **deps-dev:** update dependency semantic-release to v17.4.5 ([6a02eb7](https://github.com/wmfs/tymly-test-helpers/commit/6a02eb77c54c38ec7654020bc2206ea1d97ec637))
+* **deps-dev:** update dependency semantic-release to v17.4.6 ([56fb4ad](https://github.com/wmfs/tymly-test-helpers/commit/56fb4adfdb82629fc0f75d62800caa8455024564))
+* **deps-dev:** update dependency semantic-release to v17.4.7 ([a7e99ff](https://github.com/wmfs/tymly-test-helpers/commit/a7e99ff13aeaec2df857c8675d6317b396efcde8))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([1d179d0](https://github.com/wmfs/tymly-test-helpers/commit/1d179d0219004d019b8db8da6f373114a5c8aff0))
+
 # [1.8.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.7.0...v1.8.0) (2021-05-28)
 
 
