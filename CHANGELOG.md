@@ -1,3 +1,21 @@
+# [1.11.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.10.0...v1.11.0) (2021-11-24)
+
+
+### ✨ Features
+
+* mock users plugin with awaiting human input ([4f1032e](https://github.com/wmfs/tymly-test-helpers/commit/4f1032e5a41888cf0284192a0af02cbf5c3b2e09))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6 ([d5b74fd](https://github.com/wmfs/tymly-test-helpers/commit/d5b74fdee91fb224e203df5615812d98ebf03209))
+* **deps-dev:** update dependency mocha to v9.1.2 ([1fb55a9](https://github.com/wmfs/tymly-test-helpers/commit/1fb55a9408a20f35c4b743335ace2ef22e17cc62))
+* **deps-dev:** update dependency mocha to v9.1.3 ([6f1276c](https://github.com/wmfs/tymly-test-helpers/commit/6f1276cd2a84464dda46ddc2f7baaa64417e0513))
+* **deps-dev:** update dependency semantic-release to v18.0.1 ([b6ed41a](https://github.com/wmfs/tymly-test-helpers/commit/b6ed41a2d7f226ba488f5902edf9498cd4d2d853))
+* **deps-dev:** update dependency standard to v16.0.4 ([69fab4d](https://github.com/wmfs/tymly-test-helpers/commit/69fab4daf411a823f5a916a6f93bf7be74ef101a))
+* **deps-dev:** update semantic-release monorepo ([433ed81](https://github.com/wmfs/tymly-test-helpers/commit/433ed81b5dab3e0b1e86808d9ba21f6bd877e430))
+* **deps-dev:** update semantic-release monorepo ([3c51cf2](https://github.com/wmfs/tymly-test-helpers/commit/3c51cf27bc59822e8d50eb44c25f20d08059e1da))
+
 # [1.10.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.9.1...v1.10.0) (2021-09-06)
 
 
