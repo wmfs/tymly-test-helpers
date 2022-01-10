@@ -5,13 +5,11 @@ const EnsureCloudStorageFolder = require('../plugins/mock-sharepoint-plugin/comp
 const GetCloudStorageContents = require('../plugins/mock-sharepoint-plugin/components/state-resources/get-cloud-storage-contents')
 
 describe('mock sharepoint tests', () => {
-
   class TestContext {
-    sendTaskSuccess(result) {
+    sendTaskSuccess (result) {
       this.result = result
     }
   }
-
 
   it('ensure cloud storage folder', () => {
     const context = new TestContext()

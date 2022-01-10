@@ -11,7 +11,7 @@ class DummyRbacService {
 
   checkAuthorization (userId, ctx, resourceType, resourceName, action) {
     const text = `User '${userId}' asking for '${action}' on ${resourceType} '${resourceName}'... ` +
-      `\n\tAccess permitted - NO ACCESS CONTROL APPLIED`
+      '\n\tAccess permitted - NO ACCESS CONTROL APPLIED'
     debug(text)
     return Promise.resolve(true)
   } // checkRoleAuthorization

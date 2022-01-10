@@ -15,9 +15,9 @@ describe('mock user-info tests', () => {
   describe('set up', () => {
     it('boot', done => {
       userInfo.boot({
-          messages: { info: s => console.log(s) }
-        },
-        done
+        messages: { info: s => console.log(s) }
+      },
+      done
       )
     })
 
