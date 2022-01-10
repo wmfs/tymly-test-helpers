@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.11.0...v1.12.0) (2022-01-10)
+
+
+### ✨ Features
+
+* add remove-docs-by-doc-id state resource ([3994958](https://github.com/wmfs/tymly-test-helpers/commit/3994958f1304fc049e5ab6dece4816d4a6ee5193))
+
 # [1.11.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.10.0...v1.11.0) (2021-11-24)
 
 
