@@ -1,3 +1,15 @@
+# [1.13.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.12.0...v1.13.0) (2022-01-10)
+
+
+### ✨ Features
+
+* create dummy gov uk notify plugin ([5af1b4a](https://github.com/wmfs/tymly-test-helpers/commit/5af1b4a314b1288ded9f7c91f242fe2f54501650))
+
+
+### 💎 Styles
+
+* standard fix ([29ce1e5](https://github.com/wmfs/tymly-test-helpers/commit/29ce1e5a106310ff2548e0f0048af53be5a8df84))
+
 # [1.12.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.11.0...v1.12.0) (2022-01-10)
 
 
