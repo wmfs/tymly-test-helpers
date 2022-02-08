@@ -1,0 +1,34 @@
+{
+  "title": "Sent notifications",
+  "description": "Sent notifications",
+  "type": "object",
+  "properties": {
+    "templateName": {
+      "type": "string"
+    },
+    "input": {
+      "type": "object"
+    },
+    "error": {
+      "type": "string"
+    },
+    "template": {
+      "type": "string"
+    },
+    "namespace": {
+      "type": "string"
+    },
+    "blueprint": {
+      "type": "string"
+    },
+    "notifyId": {
+      "type": "string"
+    },
+    "recipient": {
+      "type": "string"
+    },
+    "statusCode": {
+      "type": "string"
+    }
+  }
+}
