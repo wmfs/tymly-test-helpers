@@ -1,3 +1,19 @@
+## [1.13.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.13.0...v1.13.1) (2022-02-08)
+
+
+### 🐛 Bug Fixes
+
+* bump version ([8faa828](https://github.com/wmfs/tymly-test-helpers/commit/8faa828a40a69dc2cc648b3eff4ad7d773b02459))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency chai to v4.3.5 ([b5719e4](https://github.com/wmfs/tymly-test-helpers/commit/b5719e4d0628a687c9f0e1420f474de34719b7b0))
+* **deps-dev:** update dependency chai to v4.3.6 ([6e36d29](https://github.com/wmfs/tymly-test-helpers/commit/6e36d292ecd3e0ac47f815583b7bf5b227c479d6))
+* **deps-dev:** update dependency mocha to v9.1.4 ([ef420f8](https://github.com/wmfs/tymly-test-helpers/commit/ef420f847dca29b10a5ff296da929ff8f4a971bf))
+* **deps-dev:** update dependency mocha to v9.2.0 ([29d45db](https://github.com/wmfs/tymly-test-helpers/commit/29d45db3deee46415695bdc90e2e8102a976f003))
+* **deps-dev:** update dependency semantic-release to v19 ([ee6b038](https://github.com/wmfs/tymly-test-helpers/commit/ee6b038b09453edb033f91ca51a4a6a1b175348d))
+
 # [1.13.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.12.0...v1.13.0) (2022-01-10)
 
 
