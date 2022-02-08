@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.13.1...v1.14.0) (2022-02-08)
+
+
+### ✨ Features
+
+* add gov uk notify model and extend send message function ([196423d](https://github.com/wmfs/tymly-test-helpers/commit/196423d5da2fa6939923ca719f154c8afcae9b3b))
+
 ## [1.13.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.13.0...v1.13.1) (2022-02-08)
 
 
