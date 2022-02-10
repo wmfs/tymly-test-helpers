@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.14.0...v1.15.0) (2022-02-10)
+
+
+### ✨ Features
+
+* sending message state resource ([699a065](https://github.com/wmfs/tymly-test-helpers/commit/699a065ff926b18af38ec727e8e590b2429b2a2e))
+
 # [1.14.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.13.1...v1.14.0) (2022-02-08)
 
 
