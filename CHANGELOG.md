@@ -1,3 +1,15 @@
+# [1.16.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.15.0...v1.16.0) (2022-02-16)
+
+
+### ✨ Features
+
+* check required fields when sending message ([3737ae2](https://github.com/wmfs/tymly-test-helpers/commit/3737ae2fab2a6c38448db9c3c1a2501247a1d080))
+
+
+### 🐛 Bug Fixes
+
+* message input is array ([e666be8](https://github.com/wmfs/tymly-test-helpers/commit/e666be8b8e01b62a68bf095fd7172dd6a8e02987))
+
 # [1.15.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.14.0...v1.15.0) (2022-02-10)
 
 
