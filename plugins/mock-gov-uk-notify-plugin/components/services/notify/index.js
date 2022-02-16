@@ -11,6 +11,14 @@ class DummyNotifyService {
         sendMessage: async (input) => {
           input = Array.isArray(input) ? input : [input]
 
+          if (Array.isArray(template.required)) {
+            for (const required of template.required) {
+              if (!input[required]) {
+                throw new Error(`Missing input: ${required}`)
+              }
+            }
+          }
+
           const notifications = []
 
           let recipient = ''
