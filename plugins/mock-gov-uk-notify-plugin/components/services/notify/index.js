@@ -13,8 +13,10 @@ class DummyNotifyService {
 
           if (Array.isArray(template.required)) {
             for (const required of template.required) {
-              if (!input[required]) {
-                throw new Error(`Missing input: ${required}`)
+              for (const i of input) {
+                if (!i[required]) {
+                  throw new Error(`Missing input: ${required}`)
+                }
               }
             }
           }
