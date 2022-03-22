@@ -1,3 +1,16 @@
+# [1.17.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.16.0...v1.17.0) (2022-03-22)
+
+
+### ✨ Features
+
+* mock pg plugin with audit trail state resource ([7af13c4](https://github.com/wmfs/tymly-test-helpers/commit/7af13c40fd1ec92eea18ac9809134ee3e507d552))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v9.2.1 ([0cae9aa](https://github.com/wmfs/tymly-test-helpers/commit/0cae9aa8aaf34377c5fc779aa6223b25532c0fce))
+* **deps-dev:** update dependency mocha to v9.2.2 ([58e5f06](https://github.com/wmfs/tymly-test-helpers/commit/58e5f06baf20d1bd8f477da508f58b87026c3b23))
+
 # [1.16.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.15.0...v1.16.0) (2022-02-16)
 
 
