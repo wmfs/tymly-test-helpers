@@ -1,3 +1,21 @@
+## [1.17.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.17.0...v1.17.1) (2022-05-06)
+
+
+### 🐛 Bug Fixes
+
+* force release ([7fd7df7](https://github.com/wmfs/tymly-test-helpers/commit/7fd7df7986ee9247c409d90fd38f1d1c7e7ccfec))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v10 ([cfac7d5](https://github.com/wmfs/tymly-test-helpers/commit/cfac7d5f9023f81ab270f6e056746396f23c78a3))
+* **deps-dev:** update dependency standard to v17 ([9cad926](https://github.com/wmfs/tymly-test-helpers/commit/9cad926cde999ae470f9fb0d3bec7cfd882587d2))
+
+
+### 🚨 Tests
+
+* add allFromUserId function to mock user info ([7c25496](https://github.com/wmfs/tymly-test-helpers/commit/7c254961e8f084a2d42abc11036ad7e97b44497d))
+
 # [1.17.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.16.0...v1.17.0) (2022-03-22)
 
 
