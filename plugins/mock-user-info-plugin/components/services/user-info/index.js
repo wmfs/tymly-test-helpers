@@ -19,6 +19,10 @@ class MockUserInfoService {
   userIdFromEmail (email) {
     return wrap(this.email2Id.get(email) || null)
   }
+  
+  allFromUserId (userId) {
+    return { userId }
+  }
 
   groupsFromUserId (userId) {
     throw new Error('user-info.groupsFromUserId not implemented')
