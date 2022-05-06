@@ -1,7 +1,7 @@
 {
   "name": "@wmfs/tymly-test-helpers",
   "version": "0.0.0-development",
-  "description": "Small plugins to help when running Tymly in tests ",
+  "description": "Small plugins to help when running Tymly in tests",
   "author": "West Midlands Fire Service",
   "homepage": "https://github.com/wmfs/tymly-test-helpers#readme",
   "keywords": [
