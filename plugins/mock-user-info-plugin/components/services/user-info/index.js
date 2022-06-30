@@ -19,7 +19,7 @@ class MockUserInfoService {
   userIdFromEmail (email) {
     return wrap(this.email2Id.get(email) || null)
   }
-  
+
   allFromUserId (userId) {
     return { userId }
   }
