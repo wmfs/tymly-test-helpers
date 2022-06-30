@@ -1,3 +1,15 @@
+# [1.18.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.17.1...v1.18.0) (2022-06-30)
+
+
+### ✨ Features
+
+* user id to email state resource ([688ed20](https://github.com/wmfs/tymly-test-helpers/commit/688ed20a784164cfc8d1c54bd8fbdbf8f59ecbf6))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency semantic-release to v19.0.3 ([9c79cb4](https://github.com/wmfs/tymly-test-helpers/commit/9c79cb4ef38af468c296659fdb6e2124245cd1da))
+
 ## [1.17.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.17.0...v1.17.1) (2022-05-06)
 
 
