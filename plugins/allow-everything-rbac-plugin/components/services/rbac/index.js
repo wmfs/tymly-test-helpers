@@ -3,10 +3,21 @@ const debug = require('debug')('rbac')
 class DummyRbacService {
   boot (options) {
     options.messages.info('Dummy RBAC Service - always say yes')
+
+    this.roleMembershipModel = options.bootedServices.storage.models.tymly_roleMembership
   } // boot
 
-  listUserRoles (userId) {
-    return Promise.resolve(['$everyone'])
+  async listUserRoles (userId) {
+    const roles = await this.roleMembershipModel.find({
+      where: {
+        memberId: {
+          equals: userId
+        }
+      },
+      fields: ['roleId']
+    })
+
+    return ['$everyone', ...roles.map(r => r.roleId)]
   } // getUserRoles
 
   checkAuthorization (userId, ctx, resourceType, resourceName, action) {
