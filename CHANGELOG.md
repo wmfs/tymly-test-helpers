@@ -1,3 +1,10 @@
+# [1.19.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.18.0...v1.19.0) (2022-07-07)
+
+
+### ✨ Features
+
+* list user roles to get from role membership model ([7f59600](https://github.com/wmfs/tymly-test-helpers/commit/7f5960012101de19481f89dacebab84de71845fa))
+
 # [1.18.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.17.1...v1.18.0) (2022-06-30)
 
 
