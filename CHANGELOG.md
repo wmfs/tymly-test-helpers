@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.19.0...v1.20.0) (2022-07-14)
+
+
+### ✨ Features
+
+* add mock state resource to copy file to remote folder ([01e1652](https://github.com/wmfs/tymly-test-helpers/commit/01e165272cd7bb922f7e3a14341f54d7521ac5d8))
+
 # [1.19.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.18.0...v1.19.0) (2022-07-07)
 
 
