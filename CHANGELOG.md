@@ -1,3 +1,10 @@
+# [1.21.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.20.0...v1.21.0) (2022-07-14)
+
+
+### ✨ Features
+
+* add state resource to delete cloud storage files ([2e706e2](https://github.com/wmfs/tymly-test-helpers/commit/2e706e27381c0d57695bba73be520f4156fafe4b))
+
 # [1.20.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.19.0...v1.20.0) (2022-07-14)
 
 
