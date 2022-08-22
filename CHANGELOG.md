@@ -1,3 +1,10 @@
+# [1.22.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.21.0...v1.22.0) (2022-08-22)
+
+
+### ✨ Features
+
+* add utils for launching and submitting card/state machines ([2213c81](https://github.com/wmfs/tymly-test-helpers/commit/2213c81799432a4281616d08505238b4805d72a4))
+
 # [1.21.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.20.0...v1.21.0) (2022-07-14)
 
 
