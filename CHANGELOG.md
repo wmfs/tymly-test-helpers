@@ -1,3 +1,16 @@
+## [1.22.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.22.0...v1.22.1) (2022-08-31)
+
+
+### 🐛 Bug Fixes
+
+* add cloudstorage provider for sharepoint plugin ([3ca0ea7](https://github.com/wmfs/tymly-test-helpers/commit/3ca0ea7d140c30ce10ab823967182fbdabc344c4))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency semantic-release to v19.0.4 ([f97f09e](https://github.com/wmfs/tymly-test-helpers/commit/f97f09e5516044e263fa54a7c40c231796d4b771))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([6ea3198](https://github.com/wmfs/tymly-test-helpers/commit/6ea3198640fc29d583b2e7fe65b3abc07191ab85))
+
 # [1.22.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.21.0...v1.22.0) (2022-08-22)
 
 
