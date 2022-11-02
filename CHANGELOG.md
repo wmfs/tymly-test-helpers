@@ -1,3 +1,15 @@
+## [1.22.2](https://github.com/wmfs/tymly-test-helpers/compare/v1.22.1...v1.22.2) (2022-11-02)
+
+
+### 🐛 Bug Fixes
+
+* caches function reset becomes clear ([bedb93b](https://github.com/wmfs/tymly-test-helpers/commit/bedb93b9df591c49bac75bb6d781ec1fd157af30))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v10.1.0 ([bcd2b2b](https://github.com/wmfs/tymly-test-helpers/commit/bcd2b2bccadf724bb02f62d53c8f0d12290d23ca))
+
 ## [1.22.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.22.0...v1.22.1) (2022-08-31)
 
 
