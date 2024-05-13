@@ -2,7 +2,8 @@ module.exports = {
   serviceClass: class {
     provider () {
       return {
-        ensureFolderPath () {}
+        ensureFolderPath () {},
+        listFolderContentsFromPath () {}
       }
     }
   }
