@@ -1,3 +1,39 @@
+# [1.23.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.22.2...v1.23.0) (2024-05-20)
+
+
+### ✨ Features
+
+* **(pin 262) crr dd:** [sc-22985] Email sent to legal depending on outcome ([#272](https://github.com/wmfs/tymly-test-helpers/issues/272)) ([e9984d1](https://github.com/wmfs/tymly-test-helpers/commit/e9984d1ee4fb1ba235ca4f25a72dbb79404ebd4d))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.2 ([0bf3bbf](https://github.com/wmfs/tymly-test-helpers/commit/0bf3bbffdf1b990532d734ce9b01bd18623df3ae))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.3 ([e467049](https://github.com/wmfs/tymly-test-helpers/commit/e4670495f8f24e047aa5a3aba8b1b2f68886a0f9))
+* **deps-dev:** update dependency chai to v4.3.7 ([697f9f6](https://github.com/wmfs/tymly-test-helpers/commit/697f9f6aaf708061f62d8a85341dc43d2b7f92fa))
+* **deps-dev:** update dependency chai to v4.3.8 ([d4cd7d2](https://github.com/wmfs/tymly-test-helpers/commit/d4cd7d28accb12a5aab59af5d844d8cf30df1a88))
+* **deps-dev:** update dependency mocha to v10.2.0 ([eeb0a9a](https://github.com/wmfs/tymly-test-helpers/commit/eeb0a9a45a352d9947a4c26462aa34aaa6cfc8f6))
+* **deps-dev:** update dependency semantic-release to v20 ([c318ffa](https://github.com/wmfs/tymly-test-helpers/commit/c318ffa9199379902a5cd9e847643bea4c53e72a))
+* **deps-dev:** update dependency semantic-release to v20.0.1 ([970d0df](https://github.com/wmfs/tymly-test-helpers/commit/970d0dfd1aa78afa163337317870c13218172d2f))
+* **deps-dev:** update dependency semantic-release to v20.0.2 ([75f2b06](https://github.com/wmfs/tymly-test-helpers/commit/75f2b067b5513f8ce2ce49dd95e9c9dc9c6dfc0e))
+* **deps-dev:** update dependency semantic-release to v20.0.3 ([88cd284](https://github.com/wmfs/tymly-test-helpers/commit/88cd284d787258d52069e175cfa378121b29e063))
+* **deps-dev:** update dependency semantic-release to v20.0.4 ([b5b9af1](https://github.com/wmfs/tymly-test-helpers/commit/b5b9af1d1c97ac5d8417aecf2aeedab3f9e0c8b8))
+* **deps-dev:** update dependency semantic-release to v20.1.0 ([22de639](https://github.com/wmfs/tymly-test-helpers/commit/22de639de0c12560ff7aee76d6bed3ceeee32cad))
+* **deps-dev:** update dependency semantic-release to v20.1.1 ([7725597](https://github.com/wmfs/tymly-test-helpers/commit/772559769462a5b1b8a3bc4eced982d6f1f1896c))
+* **deps-dev:** update dependency semantic-release to v20.1.3 ([f3db5ef](https://github.com/wmfs/tymly-test-helpers/commit/f3db5efb894bc35aeb208c63816b215cbe15e10d))
+* **deps-dev:** update dependency semantic-release to v21 ([e5f8803](https://github.com/wmfs/tymly-test-helpers/commit/e5f8803dd51800e979e0e48178e41a1db2a0b68e))
+* **deps-dev:** update dependency semantic-release to v21.0.1 ([a930df8](https://github.com/wmfs/tymly-test-helpers/commit/a930df880c41cdf451e180f7e503138ed1bf94cc))
+* **deps-dev:** update dependency semantic-release to v21.0.2 ([0e59d69](https://github.com/wmfs/tymly-test-helpers/commit/0e59d691143dd0d5b58a07c991e52025b3fd1369))
+* **deps-dev:** update dependency semantic-release to v21.0.3 ([d1e0c06](https://github.com/wmfs/tymly-test-helpers/commit/d1e0c0618543aef2a44b11dfcce0c3b2a704c618))
+* **deps-dev:** update dependency semantic-release to v21.0.5 ([10f30a7](https://github.com/wmfs/tymly-test-helpers/commit/10f30a7c3502536120cf1983d5f9472d22f8b682))
+* **deps-dev:** update dependency semantic-release to v21.0.6 ([838691e](https://github.com/wmfs/tymly-test-helpers/commit/838691e99792e0ac5eca913eb7f1b149bab4cfde))
+* **deps-dev:** update dependency semantic-release to v21.0.7 ([2d042be](https://github.com/wmfs/tymly-test-helpers/commit/2d042be940e061ba30236b9a4946f15e9b516f27))
+* **deps-dev:** update dependency semantic-release to v21.0.8 ([d9f508d](https://github.com/wmfs/tymly-test-helpers/commit/d9f508d00209127b88a6411ce22e7c4b7aaf1efb))
+* **deps-dev:** update dependency semantic-release to v21.0.9 ([87ce382](https://github.com/wmfs/tymly-test-helpers/commit/87ce3822ebc153e106ac8853538dc7c87d5b4be6))
+* **deps-dev:** update dependency semantic-release to v21.1.0 ([291fcdc](https://github.com/wmfs/tymly-test-helpers/commit/291fcdcd5cb1cb30aeba94ccc0e189f27a483791))
+* **deps-dev:** update dependency semantic-release to v21.1.1 ([a05de73](https://github.com/wmfs/tymly-test-helpers/commit/a05de73eb941c2c0882b8b0ced3dc324f19813c0))
+* **deps-dev:** update dependency standard to v17.1.0 ([e6a5c44](https://github.com/wmfs/tymly-test-helpers/commit/e6a5c44a28c03ab79a6473e5314739d224b66c32))
+
 ## [1.22.2](https://github.com/wmfs/tymly-test-helpers/compare/v1.22.1...v1.22.2) (2022-11-02)
 
 
