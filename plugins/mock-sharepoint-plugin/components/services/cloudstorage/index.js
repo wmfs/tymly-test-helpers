@@ -3,7 +3,8 @@ module.exports = {
     provider () {
       return {
         ensureFolderPath () {},
-        listFolderContentsFromPath () {}
+        listFolderContentsFromPath () {},
+        checkFolderPathExists () {}
       }
     }
   }
