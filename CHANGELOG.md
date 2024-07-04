@@ -1,3 +1,10 @@
+# [1.24.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.23.0...v1.24.0) (2024-07-04)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-25086] Remove manage in SharePoint unless a file uploaded ([#274](https://github.com/wmfs/tymly-test-helpers/issues/274)) ([c5ca86e](https://github.com/wmfs/tymly-test-helpers/commit/c5ca86eed7d516f92cde70d90e395e528bc51430))
+
 # [1.23.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.22.2...v1.23.0) (2024-05-20)
 
 
