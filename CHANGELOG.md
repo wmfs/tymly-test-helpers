@@ -1,3 +1,30 @@
+## [1.24.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.24.0...v1.24.1) (2026-08-13)
+
+### Bug Fix(es) :bug:
+
+* update .circleci/config.yml to 2.1 ([74d7af0](https://github.com/wmfs/tymly-test-helpers/commit/74d7af022648ce7e35efc64a46e157d30cc0e4ad))
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** [sc-29160] Resolve issue with semantic-release changelog notes ([#278](https://github.com/wmfs/tymly-test-helpers/issues/278)) ([11b9d2e](https://github.com/wmfs/tymly-test-helpers/commit/11b9d2e2ebd2bcfcb3d80641f776524fb7b35b7f))
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([630f813](https://github.com/wmfs/tymly-test-helpers/commit/630f813be91564c1dc387bcb39dae9f3bd6fef88))
+* **deps-dev:** update dependency chai to v4.5.0 ([#269](https://github.com/wmfs/tymly-test-helpers/issues/269)) ([01847f7](https://github.com/wmfs/tymly-test-helpers/commit/01847f7d2cf3db2ef106fb2cb0174871f14fdc55))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9 ([#282](https://github.com/wmfs/tymly-test-helpers/issues/282)) ([40edd2c](https://github.com/wmfs/tymly-test-helpers/commit/40edd2c72cddcf8e10c1f0db866ff2fa35ae44e9))
+* **deps-dev:** update dependency mocha to v10.8.2 ([#271](https://github.com/wmfs/tymly-test-helpers/issues/271)) ([d3c8986](https://github.com/wmfs/tymly-test-helpers/commit/d3c89860af8a073d0c11bce6e46db654ad348ba9))
+* **deps-dev:** update dependency mocha to v11 ([#276](https://github.com/wmfs/tymly-test-helpers/issues/276)) ([76b44fb](https://github.com/wmfs/tymly-test-helpers/commit/76b44fbe4316864be9ab9a4f79a2aa55e41516f6))
+* **deps-dev:** update dependency mocha to v11.6.0 ([#283](https://github.com/wmfs/tymly-test-helpers/issues/283)) ([1f52991](https://github.com/wmfs/tymly-test-helpers/commit/1f52991bd00747218719f919ebc14b30f0000956))
+* **deps-dev:** update dependency mocha to v11.7.0 ([#284](https://github.com/wmfs/tymly-test-helpers/issues/284)) ([af7ab83](https://github.com/wmfs/tymly-test-helpers/commit/af7ab83fa936a70a11341fa423c3d911a3a1169d))
+* **deps-dev:** update dependency mocha to v11.7.1 ([#285](https://github.com/wmfs/tymly-test-helpers/issues/285)) ([c72dc20](https://github.com/wmfs/tymly-test-helpers/commit/c72dc200919474df798664e57f69b07125544b70))
+* **deps-dev:** update dependency nyc to v17 ([#273](https://github.com/wmfs/tymly-test-helpers/issues/273)) ([c5e8c47](https://github.com/wmfs/tymly-test-helpers/commit/c5e8c47de1d0c14b1179b52bb7572fd15b492cbe))
+* **deps-dev:** update dependency semantic-release to v24 ([#268](https://github.com/wmfs/tymly-test-helpers/issues/268)) ([ebd946d](https://github.com/wmfs/tymly-test-helpers/commit/ebd946dcb5f880c21e450d80d3c8773f9a00745b))
+* **deps-dev:** update dependency semantic-release to v24.2.1 ([#277](https://github.com/wmfs/tymly-test-helpers/issues/277)) ([da6791b](https://github.com/wmfs/tymly-test-helpers/commit/da6791bbd3a20a4d22425a1ec462adcf4cff2cd8))
+* **deps-dev:** update dependency semantic-release to v24.2.2 ([#279](https://github.com/wmfs/tymly-test-helpers/issues/279)) ([2757886](https://github.com/wmfs/tymly-test-helpers/commit/2757886be5ce7da7239d16e1efbbc63b432ecfb0))
+* **deps-dev:** update dependency semantic-release to v24.2.3 ([#280](https://github.com/wmfs/tymly-test-helpers/issues/280)) ([dca089f](https://github.com/wmfs/tymly-test-helpers/commit/dca089f5f42449a8c5e8f9909b91a013eecb7324))
+* **deps-dev:** update dependency semantic-release to v24.2.5 ([#281](https://github.com/wmfs/tymly-test-helpers/issues/281)) ([ade5160](https://github.com/wmfs/tymly-test-helpers/commit/ade51603470f0fc4055bdd2e8096825802eca0c6))
+* **deps-dev:** update dependency semantic-release to v25 ([34f1121](https://github.com/wmfs/tymly-test-helpers/commit/34f1121cec16d2d3772f6b6f77ffc6ed3e9b5c95))
+* **deps-dev:** update dependency semantic-release to v25.0.2 ([#291](https://github.com/wmfs/tymly-test-helpers/issues/291)) ([c563269](https://github.com/wmfs/tymly-test-helpers/commit/c5632691b0f34fc987a86fb0d81325e74f28c5c8))
+* **deps-dev:** update dependency standard to v17.1.2 ([#275](https://github.com/wmfs/tymly-test-helpers/issues/275)) ([01de809](https://github.com/wmfs/tymly-test-helpers/commit/01de8096a72124b666de139c1cd1853c1f9a7e94))
+
 # [1.24.0](https://github.com/wmfs/tymly-test-helpers/compare/v1.23.0...v1.24.0) (2024-07-04)
 
 
