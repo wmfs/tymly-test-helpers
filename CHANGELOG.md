@@ -1,3 +1,9 @@
+## [1.24.3](https://github.com/wmfs/tymly-test-helpers/compare/v1.24.2...v1.24.3) (2026-11-05)
+
+### Bug Fix(es) :bug:
+
+* declare missing dependency ([5e2ea8c](https://github.com/wmfs/tymly-test-helpers/commit/5e2ea8c6d2cd1d1317cb926e14a1f657b417b1d7))
+
 ## [1.24.2](https://github.com/wmfs/tymly-test-helpers/compare/v1.24.1...v1.24.2) (2026-11-05)
 
 ### Bug Fix(es) :bug:
