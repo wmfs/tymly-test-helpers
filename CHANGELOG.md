@@ -1,3 +1,20 @@
+## [1.24.2](https://github.com/wmfs/tymly-test-helpers/compare/v1.24.1...v1.24.2) (2026-11-05)
+
+### Bug Fix(es) :bug:
+
+* declare missing debug dependency ([a30ecb0](https://github.com/wmfs/tymly-test-helpers/commit/a30ecb0a4f263aa2558dde2cf3779cd963e2f984))
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency mocha to v12 ([#296](https://github.com/wmfs/tymly-test-helpers/issues/296)) ([5262bc1](https://github.com/wmfs/tymly-test-helpers/commit/5262bc1835bf03698695da7d51e1c70eca4c16e9))
+* **deps-dev:** update dependency nyc to v18 ([#293](https://github.com/wmfs/tymly-test-helpers/issues/293)) ([68eb910](https://github.com/wmfs/tymly-test-helpers/commit/68eb91024fcf3385f8627f0a70b67e1f89824176))
+* **deps-dev:** update semantic-release monorepo ([#295](https://github.com/wmfs/tymly-test-helpers/issues/295)) ([e14265f](https://github.com/wmfs/tymly-test-helpers/commit/e14265f873fd0014752d5fb0387cc354abf088e6))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#297](https://github.com/wmfs/tymly-test-helpers/issues/297)) ([c6d1255](https://github.com/wmfs/tymly-test-helpers/commit/c6d12555398d9fb12da67c7dc44fcf97af44af95))
+* use shared renovate preset [sc-34117] ([#298](https://github.com/wmfs/tymly-test-helpers/issues/298)) ([ad81b24](https://github.com/wmfs/tymly-test-helpers/commit/ad81b240e89db58167923b8e14bb9f9f3d7320a6))
+
 ## [1.24.1](https://github.com/wmfs/tymly-test-helpers/compare/v1.24.0...v1.24.1) (2026-08-13)
 
 ### Bug Fix(es) :bug:
